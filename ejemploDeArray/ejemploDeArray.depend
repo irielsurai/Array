@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1567692907 source:d:\molinai\ejemplodearray\main.c
+	<stdio.h>
+	<stdlib.h>
+
